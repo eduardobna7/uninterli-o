@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(223, 188, 144);
+}
+h1{
+    color: red;
+    text-align: center;
+}
+p {
+    font-size: larger;
+    text-align: justify;
+}
+.magnus{
+ width: 425px;
+ height: 315px;
+ border-radius: 10px;
+}
+a{
+    font-size: 47px;
+    color: red;
+}
+a:hover {
+  background-color: blueviolet;
+  color: rgb(70, 70, 70);
+}
